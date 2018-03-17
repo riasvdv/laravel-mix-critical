@@ -38,6 +38,6 @@ Only `urls` is required - all other options are optional.
 
 | Name             | Type               | Default | Description   |
 | ---------------- | ------------------ | ------------- |------------- |
-| enabled          | `boolean` | `mix.inProduction()` | If generating Critical CSS should be enabled |
 | urls     | `array` | `[]` | An array of url objects, each with a src and dest: `{ src: 'http://example.com', dest: 'public/css/index_critical.min.ss' }` |
+| enabled          | `boolean` | `mix.inProduction()` | If generating Critical CSS should be enabled |
 | options           | `object` | `{}` | An object of [Critical](https://github.com/addyosmani/critical#options) options |
