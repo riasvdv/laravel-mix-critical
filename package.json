@@ -1,0 +1,29 @@
+{
+  "name": "laravel-mix-critical",
+  "version": "0.1.0",
+  "description": "A Laravel Mix extension for Critical CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rias500/laravel-mix-critical.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "critical",
+    "webpack"
+  ],
+  "author": "Rias Van der Veken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rias500/laravel-mix-critical/issues"
+  },
+  "homepage": "https://github.com/rias500/laravel-mix-critical#readme",
+  "peerDependencies": {
+    "laravel-mix": "^2.1.7"
+  }
+}
