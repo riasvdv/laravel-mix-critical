@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://www.npmjs.com/package/laravel-mix-critical"><img src="https://img.shields.io/npm/v/laravel-mix-critical.svg" alt="NPM"></a>
+<a href="https://npmcharts.com/compare/laravel-mix-critical?minimal=true"><img src="https://img.shields.io/npm/dt/laravel-mix-critical.svg" alt="NPM"></a>
+<a href="https://www.npmjs.com/package/laravel-mix-critical"><img src="https://img.shields.io/npm/l/laravel-mix-critical.svg" alt="NPM"></a>
+</p>
+
+
 # Laravel Mix Critical
 
 This extension provides instant Critical support to your Mix (v2.1 and up) builds.
