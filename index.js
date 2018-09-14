@@ -6,7 +6,7 @@ class Critical {
             HTML Webpack critical has been installed. Please run "npm run dev" again.
         `;
 
-        return ['html-critical-webpack-plugin'];
+        return ['html-critical-webpack-plugin@1.1.0'];
     }
 
     register(config) {
