@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/rias500/laravel-mix-critical#readme",
   "peerDependencies": {
-    "laravel-mix": "^2.1.7"
+    "laravel-mix": ">=2.1.7"
   }
 }
